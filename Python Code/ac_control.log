@@ -1,0 +1,29 @@
+2025-10-05 15:33:05,146 - INFO - Camera initialized successfully
+2025-10-05 15:33:05,146 - INFO - Starting person detection system...
+2025-10-05 15:33:06,115 - INFO - Haier AC TURNED ON - Person detected
+2025-10-05 15:36:07,693 - INFO - Camera initialized successfully
+2025-10-05 15:36:07,693 - INFO - Starting person detection system...
+2025-10-05 15:36:08,500 - INFO - Haier AC TURNED ON - Person detected
+2025-10-05 15:42:29,682 - INFO - Camera initialized successfully
+2025-10-05 15:42:29,682 - INFO - Starting person detection system...
+2025-10-05 15:42:29,733 - ERROR - Failed to read from camera
+2025-10-05 15:42:29,761 - INFO - System stopped and cleaned up
+2025-10-05 15:43:19,775 - INFO - Camera initialized successfully
+2025-10-05 15:43:19,775 - INFO - Starting person detection system...
+2025-10-05 15:43:19,775 - ERROR - Failed to read from camera
+2025-10-05 15:43:19,811 - INFO - System stopped and cleaned up
+2025-10-05 15:45:11,630 - INFO - Camera initialized successfully
+2025-10-05 15:45:11,630 - INFO - Starting person detection system...
+2025-10-05 15:45:11,630 - ERROR - Failed to read from camera
+2025-10-05 15:45:11,648 - INFO - System stopped and cleaned up
+2025-10-05 15:46:51,457 - INFO - Camera initialized successfully
+2025-10-05 15:46:51,458 - INFO - Starting person detection system...
+2025-10-05 15:46:52,550 - INFO - Haier AC TURNED ON - Person detected
+2025-10-05 15:47:09,963 - INFO - Haier AC TURNED OFF - No person detected for timeout period
+2025-10-05 15:47:14,991 - INFO - Auto-exit enabled: stopping after AC off
+2025-10-05 15:47:15,340 - INFO - System stopped and cleaned up
+2025-10-05 15:50:38,688 - INFO - Camera initialized successfully
+2025-10-05 15:50:38,688 - INFO - Starting person detection system...
+2025-10-05 15:50:39,742 - INFO - Haier AC TURNED ON - Person detected
+2025-10-05 15:51:02,734 - INFO - Haier AC TURNED OFF - No person detected for timeout period
+2025-10-05 15:51:21,702 - INFO - Haier AC TURNED ON - Person detected
