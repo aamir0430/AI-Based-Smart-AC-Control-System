@@ -27,3 +27,7 @@
 2025-10-05 15:50:39,742 - INFO - Haier AC TURNED ON - Person detected
 2025-10-05 15:51:02,734 - INFO - Haier AC TURNED OFF - No person detected for timeout period
 2025-10-05 15:51:21,702 - INFO - Haier AC TURNED ON - Person detected
+2026-07-16 22:01:20,539 - ERROR - System error: module 'mediapipe' has no attribute 'solutions'
+2026-07-16 22:01:37,782 - ERROR - System error: module 'mediapipe' has no attribute 'solutions'
+2026-07-16 22:02:00,753 - ERROR - System error: module 'mediapipe' has no attribute 'solutions'
+2026-07-16 22:03:06,273 - ERROR - System error: module 'mediapipe' has no attribute 'solutions'
